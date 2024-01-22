@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://svetlabu.github.io/csb-rnwotd/static/css/main.03d02743.chunk.css",
+    "main.js": "https://svetlabu.github.io/csb-rnwotd/static/js/main.d23f916c.chunk.js",
+    "main.js.map": "https://svetlabu.github.io/csb-rnwotd/static/js/main.d23f916c.chunk.js.map",
+    "runtime-main.js": "https://svetlabu.github.io/csb-rnwotd/static/js/runtime-main.c4608ac5.js",
+    "runtime-main.js.map": "https://svetlabu.github.io/csb-rnwotd/static/js/runtime-main.c4608ac5.js.map",
+    "static/css/2.d340bd2f.chunk.css": "https://svetlabu.github.io/csb-rnwotd/static/css/2.d340bd2f.chunk.css",
+    "static/js/2.f787ac49.chunk.js": "https://svetlabu.github.io/csb-rnwotd/static/js/2.f787ac49.chunk.js",
+    "static/js/2.f787ac49.chunk.js.map": "https://svetlabu.github.io/csb-rnwotd/static/js/2.f787ac49.chunk.js.map",
+    "index.html": "https://svetlabu.github.io/csb-rnwotd/index.html",
+    "static/css/2.d340bd2f.chunk.css.map": "https://svetlabu.github.io/csb-rnwotd/static/css/2.d340bd2f.chunk.css.map",
+    "static/css/main.03d02743.chunk.css.map": "https://svetlabu.github.io/csb-rnwotd/static/css/main.03d02743.chunk.css.map",
+    "static/js/2.f787ac49.chunk.js.LICENSE.txt": "https://svetlabu.github.io/csb-rnwotd/static/js/2.f787ac49.chunk.js.LICENSE.txt",
+    "static/media/checkbox.f9c14cec.svg": "https://svetlabu.github.io/csb-rnwotd/static/media/checkbox.f9c14cec.svg",
+    "static/media/logo.01f4ade6.svg": "https://svetlabu.github.io/csb-rnwotd/static/media/logo.01f4ade6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4608ac5.js",
+    "static/css/2.d340bd2f.chunk.css",
+    "static/js/2.f787ac49.chunk.js",
+    "static/css/main.03d02743.chunk.css",
+    "static/js/main.d23f916c.chunk.js"
+  ]
+}
